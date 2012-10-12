@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} !^www.megaabstauberseo.de$ [NC]
+RewriteRule ^(.*) http://www.aulonocara.net/$1 [R=301]
+

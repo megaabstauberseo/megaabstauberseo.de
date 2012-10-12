@@ -1,0 +1,26 @@
+body {background:url(bilder/bg.jpg);font-family:Anton, Arial, Helvetica, sans-serif;}
+body a {color:#0099FF}
+body a:hover {color:#06F;}
+.wrapper {clear:both;float:left;width:100%;text-align:center;}
+.ct {margin:0 auto;width:1200px;}
+header {margin-top:50px;}
+header img {float:left;}
+header h1 {float:left;color:#292929;font-size:90px;margin-top:10;margin-left:20px;padding:0;line-height:0;}
+header h2 {float:left;color:#e25246;font-size:50px; text-transform:uppercase;width:750px;padding:0;margin-top:0px;margin-left:80px;font-weight:normal;text-align:left;line-height:45px;}
+
+.ctwp {clear:both;float:left;width:100%;background:url(bilder/fbg.jpg);text-align:left;}
+.content {margin:20px;color:#333}
+.content h2 {color:#000;font-size:40px;}
+.content strong {color:#e25246}
+.imgr {float:right;}
+.imgl {float:left;}
+
+footer {clear:both;float:left;margin-top:50px;width:100%;text-align:left;margin-bottom:50px;}
+.ftimg {clear:both;float:left;width:400px;}
+.ftct {float:left;width:500px;}
+footer div {float:left;}
+footer div h1 {float:left;margin:0;padding:0;}
+footer img {float:left;}
+.jt {clear:both;width:500px; }
+.dc {clear:both;float:left;width:450px;}
+.ftm {float:left;background:#000;width:300px;}
